@@ -29,7 +29,7 @@
 
 ### Core Java
 
-* [Core Java Concepts](./Core%20Java/core_java_assignment/)
+* [Core Java Concepts](./Core%20Java/)
 
     1. [Basics of Java](./Core%20Java/Basics/)
     2. [OOPS Concepts](./Core%20Java/OOPS/)
